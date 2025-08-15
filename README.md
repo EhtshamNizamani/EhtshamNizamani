@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ehtsham Nizamani
 
-<!--
-**EhtshamNizamani/EhtshamNizamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter Developer | Mobile App Enthusiast  
+🚀 2+ years of experience building cross-platform apps  
+📍 Karachi, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 📱 Expert in Flutter & Dart  
+- 🌐 REST API Integration & Firebase Pro  
+- 🎯 Passionate about creating scalable and beautiful apps  
+
+---
+
+### 📊 GitHub Stats
+![Ehtsham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhtshamNizamani&show_icons=true&theme=radical)
+
+---
+
+### 🛠 Skills
+Flutter | Dart | Firebase | REST API | BLoC | Riverpod | Git | Clean Architecture
+
+---
+
+### 📫 Connect With Me
+[LinkedIn](https://linkedin.com/in/ehtsham-nizamani) | [Email](mailto:ehtsham@example.com)
