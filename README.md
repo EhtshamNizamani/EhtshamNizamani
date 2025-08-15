@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ehtsham Nizamani!
 
 ### 💻 Flutter Developer | Mobile App Enthusiast 
-Aapka coding partner, jo mobile apps ko Flutter se zindagi deta hai.
+Your coding partner, who gives life to mobile apps with Flutter.
 ---
 
 ### 🚀 About Me
