@@ -43,7 +43,6 @@ Aapka coding partner, jo mobile apps ko Flutter se zindagi deta hai.
 
 ### 💼 My Favorite Projects
 - **Health Connect App**: https://github.com/EhtshamNizamani/health-connect A complete health app for doctor-patient communication, built with Flutter and Firebase.
-- **[Your Other Project Name]**: (Link to your other project) A brief one-line description of the project.
 
 ---
 
